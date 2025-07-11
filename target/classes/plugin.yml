@@ -1,0 +1,8 @@
+name: ApocalypseMode
+version: '1.2'
+main: TheBestEreh.apocalypseMode.ApocalypseMode
+api-version: '1.19'
+author: [ TheBestEreh ]
+depend: [ LuckPerms ]
+commands:
+  apocalypsereload:

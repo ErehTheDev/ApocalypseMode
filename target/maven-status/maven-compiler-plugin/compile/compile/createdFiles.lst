@@ -1,0 +1,8 @@
+TheBestEreh\apocalypseMode\commands\ReloadCMD.class
+TheBestEreh\apocalypseMode\ApocalypseMode.class
+TheBestEreh\apocalypseMode\listener\player\DeathMessage.class
+TheBestEreh\apocalypseMode\Enum\ConsoleColor.class
+TheBestEreh\apocalypseMode\connection\JoinListener.class
+TheBestEreh\apocalypseMode\listener\events\ZombieLootListener.class
+TheBestEreh\apocalypseMode\connection\LeaveListener.class
+TheBestEreh\apocalypseMode\listener\events\ZombieInfectListener.class

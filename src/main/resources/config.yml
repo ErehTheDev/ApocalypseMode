@@ -1,0 +1,37 @@
+#    █████╗  ██████╗   ██████╗   ██████╗  █████╗  ██╗   ██╗   ██╗ ██████╗  ███████╗ ███████╗
+#   ██╔══██╗ ██╔══██╗ ██╔═══██╗ ██╔════╝ ██╔══██╗ ██║   ╚██╗ ██╔╝ ██╔══██╗ ██╔════╝ ██╔════╝
+#   ███████║ ██████╔╝ ██║   ██║ ██║      ███████║ ██║    ╚████╔╝  ██████╔╝ ███████╗ █████╗
+#   ██╔══██║ ██╔═══╝  ██║   ██║ ██║      ██╔══██║ ██║     ╚██╔╝   ██╔═══╝  ╚════██║ ██╔══╝
+#   ██║  ██║ ██║      ╚██████╔╝ ╚██████╗ ██║  ██║ ███████╗ ██║    ██║      ███████║ ███████╗
+#   ╚═╝  ╚═╝ ╚═╝       ╚═════╝   ╚═════╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝    ╚═╝      ╚══════╝ ╚══════╝
+
+# I want to thank you so much for the 50 Downloads :D
+# Please remember to leave a review/recommendation on Spigot!
+
+items:
+  blood:
+    name: "<SOLID:FF7373>ʙʟᴏᴏᴅ"
+    amount: 1
+  bone:
+    amount: 2
+
+connection:
+  player-join: "&8[&a+&8] &7%player%"
+  player-leave: "&8[&c-&8] &7%player%"
+
+infection:
+  chance: 15
+  duration:
+    slow: 35
+    confusion: 5
+
+messages:
+  no-permission: "<SOLID:FF7373>You do not have permission to execute this command."
+  reload: "<SOLID:82FF57>plugin successfully reloaded."
+
+death-messages:
+  zombie: "\n<SOLID:FF7373>%player% ʜᴇ ʙᴇᴄᴀᴍᴇ ᴍᴇᴀᴛ ꜰᴏʀ ᴛʜᴇ ᴢᴏᴍʙɪᴇѕ.\n"
+  skeleton: "\n<SOLID:FF7373>%player% ʜᴇ ᴡᴀѕ ѕʜᴏᴛ ʙʏ ᴀɴ ᴇᴠɪʟ ᴀʀʀᴏᴡ.\n"
+  spider: "\n<SOLID:FF7373>%player% ʜᴇ ᴡᴀѕ ᴇᴀᴛᴇɴ ʙʏ ᴀɴ ɪɴꜰᴇᴄᴛᴇᴅ ѕᴘɪᴅᴇʀ.\n"
+  creeper: "\n<SOLID:FF7373>%player% ɪᴛ ᴡᴀѕ ʙʟᴏᴡɴ ᴜᴘ ʙʏ ᴀ ѕᴛʀᴀɴɢᴇ ᴄʀᴇᴀᴛᴜʀᴇ.\n"
+  phantom: "\n<SOLID:FF7373>%player% ʜᴇ ᴡᴀѕ ᴋɪʟʟᴇᴅ ʙʏ ᴀ ѕᴛʀᴀɴɢᴇ ꜰʟʏɪɴɢ ᴄʀᴇᴀᴛᴜʀᴇ\n"
